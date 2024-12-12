@@ -2483,7 +2483,7 @@ void Teacher::validOrder()
 审核预约成功！
 
 至此本案例制作完毕！  `^_^`
-# -
+
 # 代码提交规范
 * feat: 新增功能（feature）
 * fix: 修复 Bug
